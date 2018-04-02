@@ -1,0 +1,398 @@
+20180329 11:37:30|INFO|Logger -> 636579202500164041:  StoreItemParameter = Name; StoreItemValue = Gold; StoreId = 0;: 636579202500164041||
+20180329 11:37:30|INFO|Logger -> 636579202500164041: Items.FetchStoreItemsStart: 636579202500632825||
+20180329 11:37:33|INFO|Logger -> 636579202500164041:  StoreItemParameter = Name; StoreItemValue = Gold; StoreId = 0;: 636579202533072822||
+20180329 11:37:33|INFO|Logger -> 636579202500164041: Items.FetchStoreItemsEND: 636579202533227984||
+20180329 15:55:8|INFO|Logger -> 636579357083577770:  StoreId = 2; StoreItemName = Cake; StoreItemCode = CAKK; StoreItemBatchNo = 5425; StoreItemQuantity = 50; StoreItemPrice = 5; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/25/2022 12:00:00 AM;: 636579357084827894||
+20180329 15:55:8|INFO|Logger -> 636579357083577770: Items.CreateItemsForAStoreStart: 636579357087692239||
+20180329 15:58:30|INFO|Logger -> 636579359103967396:  StoreId = 2; StoreItemName = Cake; StoreItemCode = CAKK; StoreItemBatchNo = 5425; StoreItemQuantity = 50; StoreItemPrice = 5; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 1/1/0001 12:00:00 AM;: 636579359103967396||
+20180329 15:58:30|INFO|Logger -> 636579359103967396: Items.CreateItemsForAStoreStart: 636579359104279926||
+20180329 16:00:53|INFO|Logger -> 636579360537584944:  StoreId = 2; StoreItemName = Cake; StoreItemCode = CAKK; StoreItemBatchNo = 5425; StoreItemQuantity = 50; StoreItemPrice = 5; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/25/2022 12:00:00 AM;: 636579360537635040||
+20180329 16:00:53|INFO|Logger -> 636579360537584944: Items.CreateItemsForAStoreStart: 636579360538056140||
+20180329 16:01:57|INFO|Logger -> 636579361177624063:  StoreId = 2; StoreItemName = Cake; StoreItemCode = CAKK; StoreItemBatchNo = 5425; StoreItemQuantity = 50; StoreItemPrice = 5; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/25/2022 12:00:00 AM;: 636579361177644131||
+20180329 16:01:57|INFO|Logger -> 636579361177624063: Items.CreateItemsForAStoreStart: 636579361177974971||
+20180329 16:02:38|INFO|Logger -> 636579361588052769:  StoreId = 2; StoreItemName = Cake; StoreItemCode = CAKK; StoreItemBatchNo = 5425; StoreItemQuantity = 50; StoreItemPrice = 5; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/25/2022 12:00:00 AM;: 636579361588062497||
+20180329 16:02:38|INFO|Logger -> 636579361588052769: Items.CreateItemsForAStoreStart: 636579361588343235||
+20180329 16:02:39|INFO|Logger -> 636579361588052769: Creating a new item: 636579361599031437||
+20180329 16:02:39|INFO|Logger -> 636579361588052769: Making fresh entries of the new item in the item_availability table: 636579361599240182||
+20180329 16:02:39|INFO|Logger -> 636579361588052769:  StoreId = 2; StoreItemName = Cake; StoreItemCode = CAKK; StoreItemBatchNo = 5425; StoreItemQuantity = 50; StoreItemPrice = 5; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/25/2022 12:00:00 AM;: 636579361599290324||
+20180329 16:02:39|INFO|Logger -> 636579361588052769: Items.CreateItemsForAStoreEND: 636579361599320691||
+20180329 18:06:12|INFO|Logger -> 636579435702622031:  StoreName = Haldiram's; StoreCode = HLDR; StoreTypeId = System.Collections.Generic.List`1[System.Int32]; StoreCategoryId = ; StoreInvoicePrefix = HLDR; StoreMobile = 9732573958; StoreEmail = haldiram@gmail.com; StoreLocation = Kthao Akta ache; StoreCity = Kolkata; StoreState = West Bengal;: 636579435720821618||
+20180329 18:06:12|INFO|Logger -> 636579435702622031: Stores.CreateStoreStart: 636579435724386914||
+20180329 18:08:25|INFO|Logger -> 636579437054730492:  StoreName = Haldiram's; StoreCode = HLDR; StoreTypeId = System.Collections.Generic.List`1[System.Int32]; StoreCategoryId = ; StoreInvoicePrefix = HLDR; StoreMobile = 9732573958; StoreEmail = haldiram@gmail.com; StoreLocation = Kthao Akta ache; StoreCity = Kolkata; StoreState = West Bengal;: 636579437059104323||
+20180329 18:08:26|INFO|Logger -> 636579437054730492: Stores.CreateStoreStart: 636579437061565082||
+20180329 18:11:26|INFO|Logger -> 636579438865345938:  StoreName = Haldiram's; StoreCode = HLDR; StoreTypeId = System.Collections.Generic.List`1[System.Int32]; StoreCategoryId = ; StoreInvoicePrefix = HLDR; StoreMobile = 9732573958; StoreEmail = haldiram@gmail.com; StoreLocation = Kthao Akta ache; StoreCity = Kolkata; StoreState = West Bengal;: 636579438866739448||
+20180329 18:11:26|INFO|Logger -> 636579438865345938: Stores.CreateStoreStart: 636579438869396012||
+20180329 18:11:45|INFO|Logger -> 636579438865345938: Fetching the Store Catgeory Count: 636579439052018677||
+20180329 18:13:40|INFO|Logger -> 636579438865345938: Fetching the Store Type Count: 636579440207475635||
+20180329 18:14:2|INFO|Logger -> 636579438865345938: Inserting in table dbo.Store_to_Store_Types: 636579440422921016||
+20180329 18:14:4|INFO|Logger -> 636579438865345938:  StoreName = Haldiram's; StoreCode = HLDR; StoreTypeId = System.Collections.Generic.List`1[System.Int32]; StoreCategoryId = ; StoreInvoicePrefix = HLDR; StoreMobile = 9732573958; StoreEmail = haldiram@gmail.com; StoreLocation = Kthao Akta ache; StoreCity = Kolkata; StoreState = West Bengal;: 636579440443910120||
+20180329 18:14:4|INFO|Logger -> 636579438865345938: Stores.CreateStoreEND: 636579440448628357||
+20180329 18:26:3|INFO|Logger -> 636579447630177511:  StoreId = 0; StoreItemName = Pencils; StoreItemCode = PNC; StoreItemBatchNo = 54236; StoreItemQuantity = 100; StoreItemPrice = 3; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/29/2018 5:30:39 AM;: 636579447630177511||
+20180329 18:26:3|INFO|Logger -> 636579447630177511: Items.CreateItemsForAStoreStart: 636579447630490099||
+20180329 18:26:6|INFO|Logger -> 636579447630177511: Creating a new item: 636579447663216616||
+20180329 18:38:18|INFO|Logger -> 636579454978826529:  StoreItemParameter = ; StoreItemValue = ; StoreId = 0;: 636579454983358255||
+20180329 18:38:19|INFO|Logger -> 636579454978826529: Items.FetchStoreItemsStart: 636579454991424424||
+20180329 18:39:32|INFO|Logger -> 636579455725371674:  StoreId = 1; StoreItemName = Pencils; StoreItemCode = PNC; StoreItemBatchNo = 54236; StoreItemQuantity = 100; StoreItemPrice = 3; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/29/2018 5:30:39 AM;: 636579455725371674||
+20180329 18:39:32|INFO|Logger -> 636579455725371674: Items.CreateItemsForAStoreStart: 636579455725840487||
+20180329 18:39:34|INFO|Logger -> 636579455725371674: Creating a new item: 636579455746138391||
+20180329 18:39:34|INFO|Logger -> 636579455725371674: Making fresh entries of the new item in the item_availability table: 636579455749107879||
+20180329 18:39:35|INFO|Logger -> 636579455725371674: Creating item to store mapping: 636579455752389060||
+20180329 18:39:35|INFO|Logger -> 636579455725371674:  StoreId = 1; StoreItemName = Pencils; StoreItemCode = PNC; StoreItemBatchNo = 54236; StoreItemQuantity = 100; StoreItemPrice = 3; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/29/2018 5:30:39 AM;: 636579455752389060||
+20180329 18:39:35|INFO|Logger -> 636579455725371674: Items.CreateItemsForAStoreEND: 636579455752389060||
+20180329 18:45:15|INFO|Logger -> 636579459159345421:  StoreId = 1; StoreItemName = Pencils; StoreItemCode = PNC; StoreItemBatchNo = 54236; StoreItemQuantity = 100; StoreItemPrice = 3; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/29/2018 5:30:39 AM; ItemCategoryId = 1;: 636579459159345421||
+20180329 18:45:15|INFO|Logger -> 636579459159345421: Items.CreateItemsForAStoreStart: 636579459159657689||
+20180329 18:45:17|INFO|Logger -> 636579459159345421: Creating a new item: 636579459179292807||
+20180329 18:45:18|INFO|Logger -> 636579459159345421: Making fresh entries of the new item in the item_availability table: 636579459182105640||
+20180329 18:45:18|INFO|Logger -> 636579459159345421: Creating item to store mapping: 636579459185405685||
+20180329 18:45:18|INFO|Logger -> 636579459159345421: Creating item to item_category mapping: 636579459188367843||
+20180329 18:45:18|INFO|Logger -> 636579459159345421:  StoreId = 1; StoreItemName = Pencils; StoreItemCode = PNC; StoreItemBatchNo = 54236; StoreItemQuantity = 100; StoreItemPrice = 3; StoreItemTax = 0; StoreItemSellable = 1; ExpiryDate = 3/29/2018 5:30:39 AM; ItemCategoryId = 1;: 636579459188524159||
+20180329 18:45:18|INFO|Logger -> 636579459159345421: Items.CreateItemsForAStoreEND: 636579459188680379||
+20180330 10:02:9|INFO|Logger -> 636580009296677063:  StoreId = 0;: 636580009296677063||
+20180330 10:02:9|INFO|Logger -> 636580009296677063: Stores.FetchStoresStart: 636580009297146018||
+20180330 10:02:11|INFO|Logger -> 636580009296677063: Fetching Store details inside the reader: 636580009314130798||
+20180330 10:02:11|INFO|Logger -> 636580009296677063: Fetching Store details inside the reader: 636580009314287438||
+20180330 10:02:11|INFO|Logger -> 636580009296677063: Fetching Store details inside the reader: 636580009314287438||
+20180330 10:02:12|INFO|Logger -> 636580009296677063:  StoreId = 0;: 636580009320059322||
+20180330 10:02:12|INFO|Logger -> 636580009296677063: Stores.FetchStoresEND: 636580009320215200||
+20180330 10:10:31|INFO|Logger -> 636580014315582052:  StoreId = 0;: 636580014315602174||
+20180330 10:10:31|INFO|Logger -> 636580014315582052: Stores.FetchStoresStart: 636580014316083462||
+20180330 10:10:46|INFO|Logger -> 636580014315582052: Fetching Store details inside the reader: 636580014463049486||
+20180330 10:10:54|INFO|Logger -> 636580014315582052: Fetching Store details inside the reader: 636580014546028346||
+20180330 10:10:59|INFO|Logger -> 636580014315582052: Fetching Store details inside the reader: 636580014591310223||
+20180330 10:12:27|INFO|Logger -> 636580014315582052:  StoreId = 0;: 636580015470435588||
+20180330 10:12:32|INFO|Logger -> 636580014315582052: Stores.FetchStoresEND: 636580015528819859||
+20180330 10:22:14|INFO|Logger -> 636580021328892728:  SupplierName = I am Unique; SupplierMobile = 5874123698; SupplierLocation = Kolkata; SupplierTypeId = 1; SupplierTINNumber = 548BAIT; SupplierRegion = West Bengal; SupplierHelpDesk = 0;: 636580021340156619||
+20180330 10:22:14|INFO|Logger -> 636580021328892728: Suppliers.CreateSuppliersStart: 636580021345493479||
+20180330 10:22:37|INFO|Logger -> 636580021328892728: New SupplierId generated: 636580021569870627||
+20180330 10:22:43|INFO|Logger -> 636580021328892728:  SupplierName = I am Unique; SupplierMobile = 5874123698; SupplierLocation = Kolkata; SupplierTypeId = 1; SupplierTINNumber = 548BAIT; SupplierRegion = West Bengal; SupplierHelpDesk = 0;: 636580021633585382||
+20180330 10:22:43|INFO|Logger -> 636580021328892728: Suppliers.CreateSuppliersEND: 636580021638601039||
+20180330 10:35:28|INFO|Logger -> 636580029277626419:  PurchaseOrderNo = 0; InvoiceStatus = ;: 636580029285077497||
+20180330 10:35:28|INFO|Logger -> 636580029277626419: Transaction.FetchPurchaseOrderStart: 636580029287577751||
+20180330 10:39:36|INFO|Logger -> 636580031768751231:  PurchaseOrderNo = 0; InvoiceStatus = ;: 636580031768907508||
+20180330 10:39:36|INFO|Logger -> 636580031768751231: Transaction.FetchPurchaseOrderStart: 636580031769220021||
+20180330 10:39:38|INFO|Logger -> 636580031768751231: fetching purchase order details inside the reader: 636580031785536516||
+20180330 10:39:38|INFO|Logger -> 636580031768751231:  PurchaseOrderNo = 0; InvoiceStatus = ;: 636580031785536516||
+20180330 10:39:38|INFO|Logger -> 636580031768751231: Transaction.FetchPurchaseOrderEND: 636580031785692787||
+20180330 10:47:0|INFO|Logger -> 636580036180407030:  GRNNumber = 1;: 636580036207595503||
+20180330 10:47:1|INFO|Logger -> 636580036180407030: Transaction.FetchGRNDetailsStart: 636580036210112906||
+20180330 11:10:54|INFO|Logger -> 636580050543063270:  GRNNumber = 0;: 636580050543219498||
+20180330 11:10:54|INFO|Logger -> 636580050543063270: Transaction.FetchGRNDetailsStart: 636580050543532065||
+20180330 11:10:56|INFO|Logger -> 636580050543063270: Fetching the GRN details inside the reader: 636580050560190599||
+20180330 11:10:56|INFO|Logger -> 636580050543063270:  GRNNumber = 0;: 636580050560346847||
+20180330 11:10:56|INFO|Logger -> 636580050543063270: Transaction.FetchGRNDetailsEND: 636580050560346847||
+20180330 11:34:37|INFO|Logger -> 636580064774542036:  UserId = 1; Address = BBD bagh, Kolkata; Mobile = 8745213698; InvoiceDate = 3/14/2018 5:57:19 PM; TotalTax = 5; ItemDetails = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.ItemDetails]; ItemTotalPrice = 30; AdditionalCharges = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.AdditionalCharges]; DiscountCharges = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.Discounts]; InvoiceTotal = 551.78; InvoiceStatus = Paid; itemAvailabilityUpdates = ;: 636580064778789918||
+20180330 11:34:38|INFO|Logger -> 636580064774542036: Transaction.CreateNewInvoiceStart: 636580064788806524||
+20180330 11:39:3|INFO|Logger -> 636580064774542036: Generating new invoice id: 636580067430172357||
+20180330 11:39:8|INFO|Logger -> 636580064774542036: Generating Query to create billing details: 636580067489840838||
+20180330 11:43:22|INFO|Logger -> 636580070029434196:  UserId = 1; Address = BBD bagh, Kolkata; Mobile = 8745213698; InvoiceDate = 3/14/2018 5:57:19 PM; TotalTax = 5; ItemDetails = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.ItemDetails]; ItemTotalPrice = 30; AdditionalCharges = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.AdditionalCharges]; DiscountCharges = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.Discounts]; InvoiceTotal = 551.78; InvoiceStatus = Paid; itemAvailabilityUpdates = ;: 636580070029544484||
+20180330 11:43:22|INFO|Logger -> 636580070029434196: Transaction.CreateNewInvoiceStart: 636580070029885384||
+20180330 11:43:24|INFO|Logger -> 636580070029434196: Generating new invoice id: 636580070047629107||
+20180330 11:43:24|INFO|Logger -> 636580070029434196: Generating Query to create billing details: 636580070047785691||
+20180330 11:56:7|INFO|Logger -> 636580077673981408:  UserId = 1; Address = BBD bagh, Kolkata; Mobile = 8745213698; InvoiceDate = 3/14/2018 5:57:19 PM; TotalTax = 5; ItemDetails = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.ItemDetails]; ItemTotalPrice = 30; AdditionalCharges = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.AdditionalCharges]; DiscountCharges = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.Discounts]; InvoiceTotal = 551.78; InvoiceStatus = Paid; itemAvailabilityUpdates = ;: 636580077674294814||
+20180330 11:56:7|INFO|Logger -> 636580077673981408: Transaction.CreateNewInvoiceStart: 636580077674450146||
+20180330 11:56:9|INFO|Logger -> 636580077673981408: Generating new invoice id: 636580077691102837||
+20180330 11:56:9|INFO|Logger -> 636580077673981408: Generating Query to create billing details: 636580077691259080||
+20180330 11:56:17|INFO|Logger -> 636580077673981408: Fetching the quantity of items available: 636580077774271057||
+20180330 11:56:30|INFO|Logger -> 636580077673981408: Updating the quantity of items available: 636580077906185080||
+20180330 11:56:30|INFO|Logger -> 636580077673981408: Updating the quantity of items available in the Items table: 636580077909383989||
+20180330 11:56:31|INFO|Logger -> 636580077673981408: Creating billing details: 636580077912507196||
+20180330 11:56:31|INFO|Logger -> 636580077673981408: Inserting additional charges: 636580077915478330||
+20180330 11:56:31|INFO|Logger -> 636580077673981408: Inserting disounts: 636580077918644983||
+20180330 11:56:31|INFO|Logger -> 636580077673981408:  UserId = 1; Address = BBD bagh, Kolkata; Mobile = 8745213698; InvoiceDate = 3/14/2018 5:57:19 PM; TotalTax = 5; ItemDetails = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.ItemDetails]; ItemTotalPrice = 30; AdditionalCharges = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.AdditionalCharges]; DiscountCharges = System.Collections.Generic.List`1[IMS.Models.Transaction.CreateNewInvoice.Core.Discounts]; InvoiceTotal = 551.78; InvoiceStatus = Paid; itemAvailabilityUpdates = ;: 636580077918644983||
+20180330 11:56:31|INFO|Logger -> 636580077673981408: Transaction.CreateNewInvoiceEND: 636580077918801242||
+20180330 12:32:58|INFO|Logger -> 636580099780692947:  StoreId = 0;: 636580099780692947||
+20180330 12:32:58|INFO|Logger -> 636580099780692947: Stores.FetchStoreTypeStart: 636580099780849224||
+20180330 12:32:59|INFO|Logger -> 636580099780692947: Populating the object list Inside the Reader: 636580099798444256||
+20180330 12:32:59|INFO|Logger -> 636580099780692947: Populating the object list Inside the Reader: 636580099798600521||
+20180330 12:32:59|INFO|Logger -> 636580099780692947: Populating the object list Inside the Reader: 636580099798756789||
+20180330 12:32:59|INFO|Logger -> 636580099780692947:  StoreId = 0;: 636580099798756789||
+20180330 12:32:59|INFO|Logger -> 636580099780692947: Stores.FetchStoreTypeEND: 636580099798756789||
+20180330 13:15:34|INFO|Logger -> 636580125339725660:  StoreName = dsfkldhs; StoreCode = ABC; StoreTypeId = System.Collections.Generic.List`1[System.Int32]; StoreCategoryId = System.Collections.Generic.List`1[System.Int32]; StoreInvoicePrefix = AVI; StoreMobile = ; StoreEmail = ; StoreLocation = ; StoreCity = ; StoreState = ;: 636580125349089293||
+20180330 13:15:35|INFO|Logger -> 636580125339725660: Stores.CreateStoreStart: 636580125350964447||
+20180330 13:15:57|INFO|Logger -> 636580125339725660: Fetching the Store Catgeory Count: 636580125573551922||
+20180330 13:16:6|INFO|Logger -> 636580125339725660: Fetching the Store Type Count: 636580125659964676||
+20180330 13:16:50|INFO|Logger -> 636580125339725660: Inserting in table dbo.Store_to_Store_Categories: 636580126107036043||
+20180330 13:17:3|INFO|Logger -> 636580125339725660: Inserting in table dbo.Store_to_Store_Types: 636580126238471554||
+20180330 13:17:7|INFO|Logger -> 636580125339725660:  StoreName = dsfkldhs; StoreCode = ABC; StoreTypeId = System.Collections.Generic.List`1[System.Int32]; StoreCategoryId = System.Collections.Generic.List`1[System.Int32]; StoreInvoicePrefix = AVI; StoreMobile = ; StoreEmail = ; StoreLocation = ; StoreCity = ; StoreState = ;: 636580126279222296||
+20180330 13:17:8|INFO|Logger -> 636580125339725660: Stores.CreateStoreEND: 636580126281878821||
+20180330 15:01:7|INFO|Logger -> 636580188674430107:  StoreItemParameter = ; StoreItemValue = ; StoreId = 0;: 636580188674430107||
+20180330 15:01:7|INFO|Logger -> 636580188674430107: Items.FetchStoreItemsStart: 636580188674742634||
+20180330 15:01:10|INFO|Logger -> 636580188674430107: Inside the reader fetching items: 636580188703049781||
+20180330 15:01:10|INFO|Logger -> 636580188674430107:  StoreItemParameter = ; StoreItemValue = ; StoreId = 0;: 636580188703049781||
+20180330 15:01:10|INFO|Logger -> 636580188674430107: Items.FetchStoreItemsEND: 636580188703206049||
+20180330 17:59:12|INFO|Logger -> 636580295523466349:  StoreId = 1;: 636580295523466349||
+20180330 17:59:12|INFO|Logger -> 636580295523466349: Stores.FetchStores START: 636580295523924025||
+20180330 17:59:15|INFO|Logger -> 636580295523466349: Fetching Store details: 636580295552972815||
+20180330 18:07:34|INFO|Logger -> 636580295523466349: Fetching Store details inside the reader: 636580300545386473||
+20180330 18:10:27|INFO|Logger -> 636580295523466349: Fetching Store categories name; if any: 636580302274900952||
+20180330 18:10:29|INFO|Logger -> 636580295523466349: Fetching Store categories name; if any: 636580302297168753||
+20180330 18:10:52|INFO|Logger -> 636580295523466349: Fetching Store types name: 636580302520191027||
+20180330 18:10:52|INFO|Logger -> 636580295523466349: Fetching Store types name: 636580302520191027||
+20180330 18:10:52|INFO|Logger -> 636580295523466349:  StoreId = 1;: 636580302520347304||
+20180330 18:10:52|INFO|Logger -> 636580295523466349: Stores.FetchStores END: 636580302520347304||
+20180330 18:11:59|INFO|Logger -> 636580303198770655:  StoreId = 0;: 636580303198770655||
+20180330 18:11:59|INFO|Logger -> 636580303198770655: Stores.FetchStores START: 636580303198926817||
+20180330 18:12:1|INFO|Logger -> 636580303198770655: Fetching Store details inside the reader: 636580303211765335||
+20180330 18:12:1|INFO|Logger -> 636580303198770655: Fetching Store details inside the reader: 636580303211922001||
+20180330 18:12:1|INFO|Logger -> 636580303198770655: Fetching Store details inside the reader: 636580303211922001||
+20180330 18:12:1|INFO|Logger -> 636580303198770655: Fetching Store details inside the reader: 636580303212078244||
+20180330 18:12:1|INFO|Logger -> 636580303198770655: Fetching Store details inside the reader: 636580303212078244||
+20180330 18:12:1|INFO|Logger -> 636580303198770655: Fetching Store details inside the reader: 636580303212234131||
+20180330 18:14:51|INFO|Logger -> 636580304919517600:  StoreId = 0;: 636580304919517600||
+20180330 18:14:51|INFO|Logger -> 636580304919517600: Stores.FetchStores START: 636580304919986375||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store details inside the reader: 636580304976316356||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store details inside the reader: 636580304976316356||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store categories name; if any: 636580304979372803||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store categories name; if any: 636580304979372803||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store categories name; if any: 636580304979529068||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store categories name; if any: 636580304979529068||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store categories name; if any: 636580304979529068||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store categories name; if any: 636580304979685359||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store categories name; if any: 636580304979685359||
+20180330 18:14:57|INFO|Logger -> 636580304919517600: Fetching Store categories name; if any: 636580304979841593||
+20180330 18:15:13|INFO|Logger -> 636580304919517600: Fetching Store types name: 636580305135978464||
+20180330 18:15:15|INFO|Logger -> 636580304919517600: Fetching Store types name: 636580305155938045||
+20180330 18:15:23|INFO|Logger -> 636580304919517600: Fetching Store types name: 636580305237351514||
+20180330 18:15:27|INFO|Logger -> 636580304919517600: Fetching Store types name: 636580305277135399||
+20180330 18:15:29|INFO|Logger -> 636580304919517600: Fetching Store types name: 636580305289592568||
+20180330 18:15:30|INFO|Logger -> 636580304919517600: Fetching Store types name: 636580305304042249||
+20180330 18:15:33|INFO|Logger -> 636580304919517600: Fetching Store types name: 636580305339943959||
+20180330 18:15:34|INFO|Logger -> 636580304919517600: Fetching Store types name: 636580305340100198||
+20180330 18:15:34|INFO|Logger -> 636580304919517600: Fetching Store types name: 636580305340256483||
+20180330 18:15:34|INFO|Logger -> 636580304919517600:  StoreId = 0;: 636580305340412709||
+20180330 18:15:34|INFO|Logger -> 636580304919517600: Stores.FetchStores END: 636580305340412709||
+20180330 18:15:49|INFO|Logger -> 636580305499289293:  StoreId = 0;: 636580305499289293||
+20180330 18:15:49|INFO|Logger -> 636580305499289293: Stores.FetchStores START: 636580305499445541||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store details inside the reader: 636580305513810342||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store details inside the reader: 636580305513810342||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store categories name; if any: 636580305516778819||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store categories name; if any: 636580305516934817||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store categories name; if any: 636580305517091071||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store categories name; if any: 636580305517247293||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store categories name; if any: 636580305517247293||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store categories name; if any: 636580305517403524||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store categories name; if any: 636580305517559798||
+20180330 18:15:51|INFO|Logger -> 636580305499289293: Fetching Store categories name; if any: 636580305517559798||
+20180330 18:15:57|INFO|Logger -> 636580305499289293: Fetching Store types name: 636580305572506256||
+20180330 18:15:57|INFO|Logger -> 636580305499289293: Fetching Store types name: 636580305572661588||
+20180330 18:15:57|INFO|Logger -> 636580305499289293: Fetching Store types name: 636580305572817924||
+20180330 18:15:57|INFO|Logger -> 636580305499289293: Fetching Store types name: 636580305572974110||
+20180330 18:15:57|INFO|Logger -> 636580305499289293: Fetching Store types name: 636580305573130392||
+20180330 18:15:57|INFO|Logger -> 636580305499289293: Fetching Store types name: 636580305573130392||
+20180330 18:15:57|INFO|Logger -> 636580305499289293: Fetching Store types name: 636580305573286629||
+20180330 18:15:57|INFO|Logger -> 636580305499289293: Fetching Store types name: 636580305573286629||
+20180330 18:15:57|INFO|Logger -> 636580305499289293: Fetching Store types name: 636580305573286629||
+20180330 18:18:19|INFO|Logger -> 636580306995205763:  StoreId = 0;: 636580306995205763||
+20180330 18:18:19|INFO|Logger -> 636580306995205763: Stores.FetchStores START: 636580306995674882||
+20180330 18:18:25|INFO|Logger -> 636580306995205763: Fetching Store details inside the reader: 636580307058738185||
+20180330 18:18:25|INFO|Logger -> 636580306995205763: Fetching Store details inside the reader: 636580307058894448||
+20180330 18:18:26|INFO|Logger -> 636580306995205763: Fetching Store categories name; if any: 636580307062175709||
+20180330 18:18:26|INFO|Logger -> 636580306995205763: Fetching Store categories name; if any: 636580307062332039||
+20180330 18:18:26|INFO|Logger -> 636580306995205763: Fetching Store categories name; if any: 636580307062332039||
+20180330 18:18:26|INFO|Logger -> 636580306995205763: Fetching Store categories name; if any: 636580307062488338||
+20180330 18:18:26|INFO|Logger -> 636580306995205763: Fetching Store categories name; if any: 636580307062644834||
+20180330 18:18:26|INFO|Logger -> 636580306995205763: Fetching Store categories name; if any: 636580307062644834||
+20180330 18:18:26|INFO|Logger -> 636580306995205763: Fetching Store categories name; if any: 636580307062800806||
+20180330 18:18:26|INFO|Logger -> 636580306995205763: Fetching Store categories name; if any: 636580307062957111||
+20180330 18:18:26|INFO|Logger -> 636580306995205763: Fetching Store categories name; if any: 636580307063113305||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307083766725||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307083922822||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307083922822||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307083922822||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307084079039||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307084079039||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307084235572||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307084235572||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307084235572||
+20180330 18:18:28|INFO|Logger -> 636580306995205763: Fetching Store types name: 636580307084235572||
+20180330 18:18:51|INFO|Logger -> 636580306995205763:  StoreId = 0;: 636580307319963662||
+20180330 18:18:52|INFO|Logger -> 636580306995205763: Stores.FetchStores END: 636580307320119862||
+20180330 18:20:18|INFO|Logger -> 636580308187710616:  StoreId = 0;: 636580308187710616||
+20180330 18:20:18|INFO|Logger -> 636580308187710616: Stores.FetchStores START: 636580308187866870||
+20180330 18:20:19|INFO|Logger -> 636580308187710616: Fetching Store details inside the reader: 636580308198384891||
+20180330 18:20:19|INFO|Logger -> 636580308187710616: Fetching Store details inside the reader: 636580308198541173||
+20180330 18:20:38|INFO|Logger -> 636580308187710616: Fetching Store categories name; if any: 636580308389398284||
+20180330 18:20:41|INFO|Logger -> 636580308187710616: Fetching Store categories name; if any: 636580308411198190||
+20180330 18:20:42|INFO|Logger -> 636580308187710616: Fetching Store categories name; if any: 636580308422665664||
+20180330 18:20:42|INFO|Logger -> 636580308187710616: Fetching Store categories name; if any: 636580308429977711||
+20180330 18:20:44|INFO|Logger -> 636580308187710616: Fetching Store categories name; if any: 636580308443909633||
+20180330 18:20:45|INFO|Logger -> 636580308187710616: Fetching Store categories name; if any: 636580308457321909||
+20180330 18:20:47|INFO|Logger -> 636580308187710616: Fetching Store categories name; if any: 636580308479127584||
+20180330 18:20:49|INFO|Logger -> 636580308187710616: Fetching Store categories name; if any: 636580308490249156||
+20180330 18:20:51|INFO|Logger -> 636580308187710616: Fetching Store categories name; if any: 636580308510025250||
+20180330 18:21:9|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308696520265||
+20180330 18:21:10|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308703335735||
+20180330 18:21:18|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308780651599||
+20180330 18:21:19|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308794858610||
+20180330 18:21:20|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308805467488||
+20180330 18:21:21|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308812364537||
+20180330 18:21:21|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308818598904||
+20180330 18:21:22|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308825721608||
+20180330 18:21:23|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308832924400||
+20180330 18:21:24|INFO|Logger -> 636580308187710616: Fetching Store types name: 636580308840104579||
+20180330 18:21:24|INFO|Logger -> 636580308187710616:  StoreId = 0;: 636580308840260852||
+20180330 18:21:24|INFO|Logger -> 636580308187710616: Stores.FetchStores END: 636580308840260852||
+20180330 18:22:30|INFO|Logger -> 636580309508928678:  StoreId = 0;: 636580309508928678||
+20180330 18:22:30|INFO|Logger -> 636580309508928678: Stores.FetchStores START: 636580309509241231||
+20180330 18:22:32|INFO|Logger -> 636580309508928678: Fetching Store details inside the reader: 636580309525605535||
+20180330 18:22:32|INFO|Logger -> 636580309508928678: Fetching Store details inside the reader: 636580309525761774||
+20180330 18:22:34|INFO|Logger -> 636580309508928678: Fetching Store categories name; if any: 636580309546418741||
+20180330 18:22:35|INFO|Logger -> 636580309508928678: Fetching Store categories name; if any: 636580309554228020||
+20180330 18:22:35|INFO|Logger -> 636580309508928678: Fetching Store categories name; if any: 636580309558896129||
+20180330 18:22:36|INFO|Logger -> 636580309508928678: Fetching Store categories name; if any: 636580309563267801||
+20180330 18:22:36|INFO|Logger -> 636580309508928678: Fetching Store categories name; if any: 636580309567357544||
+20180330 18:22:37|INFO|Logger -> 636580309508928678: Fetching Store categories name; if any: 636580309571103203||
+20180330 18:22:46|INFO|Logger -> 636580309508928678: Fetching Store categories name; if any: 636580309663362183||
+20180330 18:22:46|INFO|Logger -> 636580309508928678: Fetching Store categories name; if any: 636580309663522635||
+20180330 18:22:46|INFO|Logger -> 636580309508928678: Fetching Store categories name; if any: 636580309663542697||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309687574123||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309687704441||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309687794684||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309687864856||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309687914984||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309687925022||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309688005246||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309688045615||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309688095472||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Fetching Store types name: 636580309688125541||
+20180330 18:22:48|INFO|Logger -> 636580309508928678:  StoreId = 0;: 636580309688185709||
+20180330 18:22:48|INFO|Logger -> 636580309508928678: Stores.FetchStores END: 636580309688225827||
+20180330 18:53:41|INFO|Logger -> 636580328209789764:  StoreId = 0;: 636580328209946049||
+20180330 18:53:41|INFO|Logger -> 636580328209789764: Stores.FetchStores START: 636580328210258583||
+20180330 18:53:42|INFO|Logger -> 636580328209789764: Fetching Store details inside the reader: 636580328226903554||
+20180330 18:53:42|INFO|Logger -> 636580328209789764: Fetching Store details inside the reader: 636580328226903554||
+20180330 18:53:54|INFO|Logger -> 636580328209789764: Fetching Store categories name; if any: 636580328347013420||
+20180330 18:53:54|INFO|Logger -> 636580328209789764: Fetching Store categories name; if any: 636580328347013420||
+20180330 18:53:54|INFO|Logger -> 636580328209789764: Fetching Store categories name; if any: 636580328347169700||
+20180330 18:53:54|INFO|Logger -> 636580328209789764: Fetching Store categories name; if any: 636580328347482557||
+20180330 18:53:54|INFO|Logger -> 636580328209789764: Fetching Store categories name; if any: 636580328347482557||
+20180330 18:53:54|INFO|Logger -> 636580328209789764: Fetching Store categories name; if any: 636580328347482557||
+20180330 18:53:54|INFO|Logger -> 636580328209789764: Fetching Store categories name; if any: 636580328347702970||
+20180330 18:53:54|INFO|Logger -> 636580328209789764: Fetching Store categories name; if any: 636580328347702970||
+20180330 18:53:54|INFO|Logger -> 636580328209789764: Fetching Store categories name; if any: 636580328347702970||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350672327||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350672327||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350672327||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350672327||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350828296||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350828296||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350828296||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350828296||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350828296||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Fetching Store types name: 636580328350828296||
+20180330 18:53:55|INFO|Logger -> 636580328209789764:  StoreId = 0;: 636580328350984598||
+20180330 18:53:55|INFO|Logger -> 636580328209789764: Stores.FetchStores END: 636580328350984598||
+20180402 09:21:44|INFO|Logger -> 636582577047011895:  StoreId = 0;: 636582577047021879||
+20180402 09:21:44|INFO|Logger -> 636582577047011895: Stores.FetchStores START: 636582577047442993||
+20180402 09:21:53|INFO|Logger -> 636582577047011895: Fetching Store details inside the reader: 636582577132697791||
+20180402 09:21:57|INFO|Logger -> 636582577047011895: Fetching Store details inside the reader: 636582577176628503||
+20180402 09:22:11|INFO|Logger -> 636582577047011895: Fetching Store categories name; if any: 636582577313907103||
+20180402 09:22:17|INFO|Logger -> 636582577047011895: Fetching Store categories name; if any: 636582577372632260||
+20180402 09:22:17|INFO|Logger -> 636582577047011895: Fetching Store categories name; if any: 636582577372832785||
+20180402 09:22:17|INFO|Logger -> 636582577047011895: Fetching Store categories name; if any: 636582577372912984||
+20180402 09:22:17|INFO|Logger -> 636582577047011895: Fetching Store categories name; if any: 636582577373043331||
+20180402 09:22:17|INFO|Logger -> 636582577047011895: Fetching Store categories name; if any: 636582577373103479||
+20180402 09:22:17|INFO|Logger -> 636582577047011895: Fetching Store categories name; if any: 636582577373103479||
+20180402 09:22:17|INFO|Logger -> 636582577047011895: Fetching Store categories name; if any: 636582577373153615||
+20180402 09:22:17|INFO|Logger -> 636582577047011895: Fetching Store categories name; if any: 636582577373193742||
+20180402 09:26:29|INFO|Logger -> 636582579895798350:  StoreId = 0;: 636582579895798350||
+20180402 09:26:29|INFO|Logger -> 636582579895798350: Stores.FetchStores START: 636582579896110892||
+20180402 09:26:41|INFO|Logger -> 636582579895798350: Fetching Store details inside the reader: 636582580014722030||
+20180402 09:26:48|INFO|Logger -> 636582579895798350: Fetching Store details inside the reader: 636582580084938722||
+20180402 09:27:48|INFO|Logger -> 636582579895798350: Fetching Store categories name; if any: 636582580688627311||
+20180402 09:27:52|INFO|Logger -> 636582579895798350: Fetching Store categories name; if any: 636582580723214595||
+20180402 09:27:55|INFO|Logger -> 636582579895798350: Fetching Store categories name; if any: 636582580754361386||
+20180402 09:43:27|INFO|Logger -> 636582590076629988:  StoreId = 0;: 636582590076640092||
+20180402 09:43:27|INFO|Logger -> 636582590076629988: Stores.FetchStores START: 636582590077051171||
+20180402 09:43:30|INFO|Logger -> 636582590076629988: Fetching Store details inside the reader: 636582590107679963||
+20180402 09:43:30|INFO|Logger -> 636582590076629988: Fetching Store details inside the reader: 636582590107836234||
+20180402 09:43:40|INFO|Logger -> 636582590076629988: Fetching Store categories name; if any: 636582590206303261||
+20180402 09:43:42|INFO|Logger -> 636582590076629988: Fetching Store categories name; if any: 636582590228805259||
+20180402 09:43:45|INFO|Logger -> 636582590076629988: Fetching Store categories name; if any: 636582590250682600||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590402508652||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590402662952||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590402819524||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590402975420||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590402975420||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590402975420||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590403131665||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590403131665||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590403131665||
+20180402 09:44:0|INFO|Logger -> 636582590076629988: Fetching Store types name: 636582590403288229||
+20180402 09:45:10|INFO|Logger -> 636582591107434710:  StoreId = 0;: 636582591107434710||
+20180402 09:45:10|INFO|Logger -> 636582591107434710: Stores.FetchStores START: 636582591107745533||
+20180402 09:45:11|INFO|Logger -> 636582591107434710: Fetching Store details inside the reader: 636582591116257702||
+20180402 09:45:11|INFO|Logger -> 636582591107434710: Fetching Store details inside the reader: 636582591116413973||
+20180402 09:45:12|INFO|Logger -> 636582591107434710: Fetching Store categories name; if any: 636582591124975899||
+20180402 09:45:12|INFO|Logger -> 636582591107434710: Fetching Store categories name; if any: 636582591124975899||
+20180402 09:45:12|INFO|Logger -> 636582591107434710: Fetching Store categories name; if any: 636582591124975899||
+20180402 09:45:12|INFO|Logger -> 636582591107434710: Fetching Store types name: 636582591127944260||
+20180402 09:45:12|INFO|Logger -> 636582591107434710: Fetching Store types name: 636582591127944260||
+20180402 09:45:12|INFO|Logger -> 636582591107434710: Fetching Store types name: 636582591128100503||
+20180402 09:47:30|INFO|Logger -> 636582592502118986:  StoreId = 0;: 636582592502118986||
+20180402 09:47:30|INFO|Logger -> 636582592502118986: Stores.FetchStores START: 636582592502431502||
+20180402 09:47:33|INFO|Logger -> 636582592502118986: Fetching Store details inside the reader: 636582592536237156||
+20180402 09:47:33|INFO|Logger -> 636582592502118986: Fetching Store details inside the reader: 636582592536297299||
+20180402 09:47:34|INFO|Logger -> 636582592502118986: Fetching Store categories name; if any: 636582592546330935||
+20180402 09:47:34|INFO|Logger -> 636582592502118986: Fetching Store categories name; if any: 636582592546401102||
+20180402 09:47:34|INFO|Logger -> 636582592502118986: Fetching Store categories name; if any: 636582592546411168||
+20180402 09:47:34|INFO|Logger -> 636582592502118986: Fetching Store types name: 636582592549273850||
+20180402 09:47:34|INFO|Logger -> 636582592502118986: Fetching Store types name: 636582592549273850||
+20180402 09:47:34|INFO|Logger -> 636582592502118986: Fetching Store types name: 636582592549430035||
+20180402 09:47:35|INFO|Logger -> 636582592502118986: Fetching Store categories name; if any: 636582592558136704||
+20180402 09:47:35|INFO|Logger -> 636582592502118986: Fetching Store categories name; if any: 636582592558291388||
+20180402 09:47:35|INFO|Logger -> 636582592502118986: Fetching Store categories name; if any: 636582592558447673||
+20180402 09:47:36|INFO|Logger -> 636582592502118986: Fetching Store types name: 636582592561260787||
+20180402 09:47:36|INFO|Logger -> 636582592502118986: Fetching Store types name: 636582592561417029||
+20180402 09:47:36|INFO|Logger -> 636582592502118986: Fetching Store types name: 636582592561572947||
+20180402 09:48:21|INFO|Logger -> 636582592502118986:  StoreId = 0;: 636582593019204903||
+20180402 09:48:22|INFO|Logger -> 636582592502118986: Stores.FetchStores END: 636582593021858128||
+20180402 10:17:59|INFO|Logger -> 636582610791266074:  StoreId = 0;: 636582610791266074||
+20180402 10:17:59|INFO|Logger -> 636582610791266074: Stores.FetchStores START: 636582610791636736||
+20180402 10:18:1|INFO|Logger -> 636582610791266074: Fetching Store details inside the reader: 636582610816859119||
+20180402 10:18:1|INFO|Logger -> 636582610791266074: Fetching Store details inside the reader: 636582610816859119||
+20180402 10:18:16|INFO|Logger -> 636582610791266074: Fetching Store categories name; if any: 636582610965801111||
+20180402 10:18:16|INFO|Logger -> 636582610791266074: Fetching Store categories name; if any: 636582610965955439||
+20180402 10:18:16|INFO|Logger -> 636582610791266074: Fetching Store categories name; if any: 636582610966112049||
+20180402 10:18:16|INFO|Logger -> 636582610791266074: Fetching Store types name: 636582610969219782||
+20180402 10:18:16|INFO|Logger -> 636582610791266074: Fetching Store types name: 636582610969375981||
+20180402 10:18:16|INFO|Logger -> 636582610791266074: Fetching Store types name: 636582610969375981||
+20180402 10:18:40|INFO|Logger -> 636582610791266074: Fetching Store categories name; if any: 636582611201760466||
+20180402 10:18:40|INFO|Logger -> 636582610791266074: Fetching Store categories name; if any: 636582611201914976||
+20180402 10:18:40|INFO|Logger -> 636582610791266074: Fetching Store categories name; if any: 636582611202070932||
+20180402 10:18:40|INFO|Logger -> 636582610791266074: Fetching Store types name: 636582611205197176||
+20180402 10:18:40|INFO|Logger -> 636582610791266074: Fetching Store types name: 636582611205508805||
+20180402 10:18:40|INFO|Logger -> 636582610791266074: Fetching Store types name: 636582611205508805||
+20180402 10:19:56|INFO|Logger -> 636582611960954405:  StoreId = 0;: 636582611960954405||
+20180402 10:19:56|INFO|Logger -> 636582611960954405: Stores.FetchStores START: 636582611961423167||
+20180402 10:19:59|INFO|Logger -> 636582611960954405: Fetching Store details inside the reader: 636582611990517254||
+20180402 10:19:59|INFO|Logger -> 636582611960954405: Fetching Store details inside the reader: 636582611990517254||
+20180402 10:20:3|INFO|Logger -> 636582611960954405: Fetching Store categories name; if any: 636582612030577596||
+20180402 10:20:3|INFO|Logger -> 636582611960954405: Fetching Store categories name; if any: 636582612030733813||
+20180402 10:20:3|INFO|Logger -> 636582611960954405: Fetching Store categories name; if any: 636582612030733813||
+20180402 10:20:3|INFO|Logger -> 636582611960954405: Fetching Store types name: 636582612033704942||
+20180402 10:20:3|INFO|Logger -> 636582611960954405: Fetching Store types name: 636582612033859426||
+20180402 10:20:3|INFO|Logger -> 636582611960954405: Fetching Store types name: 636582612034015526||
+20180402 10:20:12|INFO|Logger -> 636582611960954405: Fetching Store categories name; if any: 636582612127670775||
+20180402 10:20:12|INFO|Logger -> 636582611960954405: Fetching Store categories name; if any: 636582612127936318||
+20180402 10:20:12|INFO|Logger -> 636582611960954405: Fetching Store categories name; if any: 636582612128092958||
+20180402 10:20:13|INFO|Logger -> 636582611960954405: Fetching Store types name: 636582612131061675||
+20180402 10:20:13|INFO|Logger -> 636582611960954405: Fetching Store types name: 636582612131217934||
+20180402 10:20:13|INFO|Logger -> 636582611960954405: Fetching Store types name: 636582612131217934||
+20180402 10:20:22|INFO|Logger -> 636582611960954405:  StoreId = 0;: 636582612224392136||
+20180402 10:20:22|INFO|Logger -> 636582611960954405: Stores.FetchStores END: 636582612224392136||
+20180402 10:32:46|INFO|Logger -> 636582619664608436:  StoreId = 2; StoreName = Apurv Stores; StoreCode = APR1; StoreInvoicePrefix = APRV; StoreCategoryId = System.Collections.Generic.List`1[System.Int32]; StoreTypeId = System.Collections.Generic.List`1[System.Int32];: 636582619664608436||
+20180402 10:32:46|INFO|Logger -> 636582619664608436: Stores.EditStore START: 636582619664764699||
+20180402 10:32:46|INFO|Logger -> 636582619664920964:  Code = APR1; TableName = Stores;: 636582619664920964||
+20180402 10:32:46|INFO|Logger -> 636582619664920964: Reports.CheckForDuplicateCode START: 636582619664920964||
+20180402 10:32:48|INFO|Logger -> 636582619664920964:  Code = APR1; TableName = Stores;: 636582619682671496||
+20180402 10:32:48|INFO|Logger -> 636582619664920964: Reports.CheckForDuplicateCode END: 636582619682827733||
+20180402 10:32:48|INFO|Logger -> 636582619664608436: Deleting store_to_store_categories mappings: 636582619685797072||
+20180402 10:32:48|INFO|Logger -> 636582619664608436: Fetching Store category count from db: 636582619688675802||
+20180402 10:32:49|INFO|Logger -> 636582619664608436: Deleting store_to_store_types mappings: 636582619691646800||
+20180402 10:32:49|INFO|Logger -> 636582619664608436: Fetching Store type count from db: 636582619694635129||
+20180402 10:32:49|INFO|Logger -> 636582619664608436: Editing the store details: 636582619697604533||
+20180402 10:32:50|INFO|Logger -> 636582619664608436: inserting in dbo.Store_to_Store_Categories: 636582619700730474||
+20180402 10:32:50|INFO|Logger -> 636582619664608436: inserting in dbo.Store_to_Store_Types: 636582619703649174||
+20180402 10:32:50|INFO|Logger -> 636582619664608436:  StoreId = 2; StoreName = Apurv Stores; StoreCode = APR1; StoreInvoicePrefix = APRV; StoreCategoryId = System.Collections.Generic.List`1[System.Int32]; StoreTypeId = System.Collections.Generic.List`1[System.Int32];: 636582619703961735||
+20180402 10:32:50|INFO|Logger -> 636582619664608436: Stores.EditStore END: 636582619703961735||
